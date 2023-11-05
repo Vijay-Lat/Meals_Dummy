@@ -1,0 +1,1 @@
+export const colors = {violet:"#252250",white:"#ffffff"}
